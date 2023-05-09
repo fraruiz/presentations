@@ -1,39 +1,37 @@
-# System Design: Scale from zero to millions of users
+Title of Talk
 
-Francisco Ruiz
-Software Engineer at Mercado Libre
-franciscoruizlezcano@gmail.com
+My Name
+1 Jan 2013
+me@example.com
 
-## Title of Slide or Section (must begin with ##)
+* Title of Slide or Section (must begin with *)
 
 Some Text
 
-### Subsection {#anchor}
+** Subsection
 
 - bullets
 - more bullets
 - a bullet continued
-  on the next line
+  on the next line (indented at least one space)
 
-#### Sub-subsection
+*** Sub-subsection
 
 Some More text
 
-	Preformatted text (code block)
-	is indented (by one tab, or four spaces)
+  Preformatted text (code block)
+  is indented (however you like)
 
 Further Text, including command invocations.
 
-## Section 2: Example formatting {#fmt}
+* Section 2: Example formatting
 
 Formatting:
 
 _italic_
-// A comment that is completely ignored.
-: Speaker notes.
-**bold**
+*bold*
 `program`
-Markup—_especially italic text_—can easily be overused.
-_Why use scoped\_ptr_? Use plain **\*ptr** instead.
+Markup—_especially_italic_text_—can easily be overused.
+_Why_use_scoped__ptr_? Use plain ***ptr* instead.
 
-Visit [the Go home page](https://golang.org/).
+Visit [[https://golang.org][the Go home page]].
