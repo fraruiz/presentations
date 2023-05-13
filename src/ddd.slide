@@ -1,37 +1,19 @@
-Title of Talk
+Domain Driven Design: Abordando la complejidad del diseño de software
 
-My Name
-1 Jan 2013
-me@example.com
+Francisco Ruiz
+franciscoruizlezcano@gmail.com
 
-* Title of Slide or Section (must begin with *)
+* Agenda
+1. What is DDD
+2. Ubiquitous Language
+3. Strategic Design
+4. Tactical Design
+5. Next Steps
+6. Q&A
 
-Some Text
-
-** Subsection
-
-- bullets
-- more bullets
-- a bullet continued
-  on the next line (indented at least one space)
-
-*** Sub-subsection
-
-Some More text
-
-  Preformatted text (code block)
-  is indented (however you like)
-
-Further Text, including command invocations.
-
-* Section 2: Example formatting
-
-Formatting:
-
-_italic_
-*bold*
-`program`
-Markup—_especially_italic_text_—can easily be overused.
-_Why_use_scoped__ptr_? Use plain ***ptr* instead.
-
-Visit [[https://golang.org][the Go home page]].
+* What is DDD
+* Ubiquitous Language
+* Strategic Design
+* Tactical Design
+* Next Steps
+* Q&A
